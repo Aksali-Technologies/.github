@@ -86,7 +86,7 @@ An AI business analyst for small businesses that explains what changed in their 
 - The model never sees the rows of the file, and every analysis still works with the AI switched off.
 - **300 backend tests**, including an adversarial suite that feeds the guardrails exactly what a misbehaving model would produce.
 
-`Next.js` `TypeScript` `FastAPI` `pandas` `scikit-learn` `PostgreSQL` &nbsp; **[Open the live app →](https://insight-flow-ai-iota.vercel.app)**
+`Next.js` `TypeScript` `FastAPI` `pandas` `scikit-learn` `PostgreSQL` &nbsp; **[Read the case study →](https://aksali.com/work)**
 
 ### RoleFit &nbsp;<sub><code>PRODUCT</code> · <code>APPLIED AI</code> · <code>SOFTWARE</code></sub>
 
@@ -100,7 +100,7 @@ A resume optimiser that tailors a resume to a specific role **without inventing 
 - The readiness score is deterministic arithmetic, not a model opinion: the same inputs always produce the same number.
 - Works without any AI provider. Exports are read back and verified before download.
 
-`Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM` `Zod` `Playwright` &nbsp; **[Open the live app →](https://rolefit-topaz.vercel.app)**
+`Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM` `Zod` `Playwright` &nbsp; **[Read the case study →](https://aksali.com/work)**
 
 ### Locora &nbsp;<sub><code>PROTOTYPE</code> · <code>SOFTWARE</code> · <code>BACKEND SYSTEMS</code></sub>
 
